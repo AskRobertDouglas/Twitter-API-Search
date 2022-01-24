@@ -90,6 +90,8 @@ Search for any new buzzword that is drifting through the zeitgeist and see what 
 
 For more tweets, simply click the "Load More" button at the bottom of the screen. It will add 5 more tweets to the list for your viewing pleasure.
 
+You can filter the tweets that are displayed by their hashtags by clicking on a hashtag in the hashtag filter list on the right side of the application.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
